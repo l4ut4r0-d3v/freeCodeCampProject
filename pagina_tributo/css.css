@@ -1,0 +1,34 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+#main{
+  background-color: #E6E6E6;
+}
+#title{
+  text-align: center;
+}
+#div-img{
+  background-color: #fff;
+  text-align: center;
+  margin: 0 10px 0 10px;
+  border-radius: 2px;
+  border-bottom: 1px solid;
+}
+img{
+  width: 500px;
+  border: 2px solid;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+li{
+  margin: 10px;
+}
